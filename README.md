@@ -1,4 +1,4 @@
-# About
+# Coolgo Map
 A GIS application, cool as Google Map
 
 Author: Fancy Mao, Jason Wei, and VIctor Wu from ECE 2T4, University of Toronto 
@@ -8,6 +8,19 @@ A simple tutorial on how to use Coolgo Map. Basically, there are two modes for y
 
 ## Show the Menu
 
+
 ## Mode 1: Find Intersections
+### Search Bar Entry
+
+
+### RIGHT Mouse Click - Find any intersection
+
+
+### MIDDLE Mouse Click - Disatnce Ruler
+
 
 ## Mode 2: Find Directions
+### Search Bar Entry
+
+
+### RIGHT Mouse Click - Navigation between two intersections
