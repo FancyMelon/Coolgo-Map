@@ -38,8 +38,8 @@ For mode 2, please enter two intersection names in the convention of "street 1 a
 
 ### RIGHT Mouse Click - Navigation between two intersections
 Similar to mode 1, any RIGHT button mouse click will return the location pin on the intersection.
-![navigateStep1](assets/searchDirectionStep1.png)
+![navigateStep1](assets/searchDirectionstep1.png)
 
 After you click **2 Intersections**, please click "Search" to find the route between two intersections.
-![navigateStep2](assets/findDirectionStep2.png)
+![navigateStep2](assets/findDirectionstep2.png)
 
