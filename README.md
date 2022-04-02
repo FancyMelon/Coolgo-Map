@@ -14,7 +14,9 @@ To show the menu and know more about the oprations, please click the "hamburger"
 
 
 As shown in the picture, you can explore more functions under the expanded menu.
-![expandmenu](assets/expandmenu.png)
+<p align="center">
+  <img src=assets/expandmenu.png>
+</p>
 
 ## Switch Different Modes
 There are two modes for you to switch in between. If you would like to find intersections, please switch to mode 1. If you would like to navigate, please use mode 2.
