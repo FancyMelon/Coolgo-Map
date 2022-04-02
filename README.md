@@ -8,7 +8,10 @@ A simple tutorial on how to use Coolgo Map. Basically, there are two modes for y
 
 ## Show the Menu
 To show the menu and know more about the oprations, please click the "hamburger" icon on the right side.
-![menuclose](assets/menuclose.png)
+<p align="center">
+  <img src=assets/menuclose.png>
+</p>
+
 
 As shown in the picture, you can explore more functions under the expanded menu.
 ![expandmenu](assets/expandmenu.png)
