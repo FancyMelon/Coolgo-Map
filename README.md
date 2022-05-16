@@ -4,7 +4,7 @@ A GIS application, cooler than Google Map
 Author: Fancy Mao, Jason Wei, and VIctor Wu from ECE 2T4, University of Toronto 
 
 # Get-Started
-A simple tutorial on how to use Coolgo Map. Basically, there are two modes for you to interact. One is to Find the intersection, and the other is to Find directions for you to navigate.
+A simple tutorial on how to use Coolgo Map. There are two modes for you to interact: Find the intersection, and Find directions.
 
 ## Show the Menu
 To show the menu and know more about the oprations, please click the "hamburger" icon on the right side.
